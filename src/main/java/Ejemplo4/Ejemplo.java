@@ -1,8 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+ Escriba un programa que lea dos números enteros como entrada y escriba el mensaje
+ signos opuestos si y solo si uno de los enteros es positivo y el otro negativo
+*/
+
 package Ejemplo4;
 
 import java.util.Scanner;
